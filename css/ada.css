@@ -1,0 +1,215 @@
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .top-main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .top-foot {
+    display: flex;
+    flex-direction: column;
+    height: auto;
+  }
+  .categories {
+    margin: 10px auto;
+  }
+  .head-but {
+    display: none;
+  }
+  ul {
+    display: none;
+    border-top: 1px gray solid;
+  }
+  .rights {
+    display: inline-flex;
+    flex-direction: column;
+    text-align: center;
+  }
+  .info {
+    font-size: 1.1em;
+  }
+  .logo {
+    height: 50px;
+    width: 150px;
+    margin: auto 0;
+  }
+  .logo-foot {
+    height: 50px;
+    width: 100px;
+    margin: auto auto;
+  }
+  .card {
+    width: 301px;
+    height: 452px;
+  }
+  .product {
+    height: 300px;
+    width: 300px;
+  }
+  h3 {
+    margin-top: 5px;
+    font-size: 1.5em;
+    color: rgb(42, 41, 56);
+  }
+  .p-card {
+    font-size: 1.2em;
+  }
+  .star {
+    font-size: 1em;
+    color: gold;
+  }
+  .feedback {
+    font-size: 1em;
+    color: rgb(219, 219, 208);
+    margin-left: 8px;
+  }
+  .contact {
+    text-align: center;
+    margin: 20px;
+  }
+  input {
+    width: 90px;
+  }
+  .burger {
+    display: block;
+  }
+  #main-menu {
+    display: block;
+  }
+  #hamburger-menu {
+    display: block;
+  }
+  .menu {
+    margin-left: 35px;
+  }
+  .top-main-card h2{
+    margin: 10px 0;
+    padding: 10px 0;
+  }
+  .buy {
+    flex-direction: column;
+    margin: 20px 0;
+  }
+  .buy-button button {
+    margin: 0 auto;
+    margin-top: 20px;
+  }
+  .name {
+    flex-direction: column;
+    margin: 0 auto;
+  }
+  .name-dis {
+    margin: 0 auto;
+    font-size: 1.5em;
+  }
+  .product-card {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  .big-card {
+    display: none;
+  }
+  .big-card-mobile {
+    display: block;
+  }
+  .big-card-product-mobile {
+    display: block;
+    width: 100%;
+    height: 300px;
+    margin: 0 auto;
+  }
+  .discription {
+    width: auto;
+    padding: 75px 3% 30px 3%;
+  }
+  .spec {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .reviews {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px 3% 0px 3%;
+  }
+  .review {
+    padding: 10px 3%;
+    width: 300px;
+    height: auto;
+    margin-bottom: 10px;
+  }
+  .spec h2 {
+    width: auto;
+    margin: 20px 0;
+  }
+  .spec-p {
+    margin: 0 3% 20px 3%;
+  }
+  .spec-des {
+    margin: 0 3% 20px 3%;
+  }
+  .con-stock {
+    flex-direction: column;
+    align-items: center;
+  }
+  .trend {
+    flex-direction: column;
+    height: auto;
+  }
+  .trend-dis {
+    margin: 3% 0;
+  }
+  .trend-reverse {
+    display: none;
+  }
+  .trend-dis p {
+    width: auto;
+  }
+  .trend-mobile {
+    display: block;
+    flex-direction: column;
+    height: auto;
+  }
+  .card-trend {
+    width: 100%;
+    height: 70%;
+  }
+  .trend-dis-mobile {
+    color: black;
+  }
+  .trend-dis-mobile p {
+    color: black;
+    text-align: center;
+    width: auto;
+  }
+  .big-card-product-mobile-trend {
+    margin: auto 0;
+    height: 50%;
+    width: 100%;
+  }
+  .product-card-stock {
+    width: 90px;
+  }
+  .name-dis-stock {
+    font-size: 0.9em;
+  }
+  .top-main-us h1 {
+    font-size: 1.8em;
+  }
+  .us {
+    flex-direction: column;
+    align-items: center;
+    height: auto;
+  }
+  .us-card {
+    width: 100%;
+    height: 200px;
+    margin: 0;
+  }
+  .us-dis {
+    margin: 20px 0;
+  }
+  .us-dis p {
+    width: auto;
+  }
+}
